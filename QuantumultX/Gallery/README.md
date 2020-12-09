@@ -64,6 +64,7 @@
   - [数码加购京豆](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_digital_floor.js)
   - [直播红包雨](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js)
   - [苹果抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js)
+  - [PUBG](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pubg.js)
   - [京东金融-天天提鹅](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js)
   - [京东金融-养猪猪](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
@@ -74,7 +75,7 @@
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js)
 
-- ## 薅
+- #### 薅
 
   - [中青看点](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
