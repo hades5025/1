@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Support.sgmodule
 
 
 ## 补充说明
-#### 部分功能可能需要搭配知名大佬们的 BoxJs 订阅使用
+#### 部分功能可能需要搭配知名大佬们的 BoxJs 订阅使用（非必要）
 
 https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json
 
@@ -34,6 +34,3 @@ https://raw.githubusercontent.com/whyour/hundun/master/quanx/whyour.boxjs.json
 https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json （中青看点清除 body）
 
 https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json （CCCAT 机场签到）
-
-
-## 如果不会使用 BoxJs 请点击左上角/右上角 关闭此网页
