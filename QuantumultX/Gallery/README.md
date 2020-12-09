@@ -4,18 +4,17 @@
 
   `https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/Task.json`
 
-- 
-  #### 需要搭配下面两个重写订阅使用
-
-  #### ⚠️⚠️请确保你添加了资源解析器并开启⚠️⚠️
-
-  - #####  重写一：cookie 获取成功后禁用
-
-    `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Cookie.sgmodule`
-
-  - ##### 重写二：用于辅助其他模块，无需禁用
-
-    `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Support.sgmodule`
+- #### 需要搭配下面两个重写订阅使用
+  
+- ##### ⚠️请确保你添加了资源解析器并开启
+    
+- #####  重写一：cookie 获取成功后禁用
+  
+  `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Cookie.sgmodule`
+  
+- ##### 重写二：用于辅助其他模块，无需禁用
+  
+  `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Support.sgmodule`
 
 ## 资源列表
 
