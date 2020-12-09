@@ -9,11 +9,11 @@
 
 #### ⚠️请确保你添加了资源解析器并开启
 
-#### \* 重写一：cookie 获取成功后禁用
+\* #### 重写一：cookie 获取成功后禁用
 
 `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Cookie.sgmodule`
 
-#### \* 重写二：用于辅助其他模块，无需禁用
+\* #### 重写二：用于辅助其他模块，无需禁用
 
 `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Support.sgmodule`
 
