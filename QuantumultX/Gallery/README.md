@@ -1,24 +1,25 @@
-Gallery：
+
+## 使用说明
+#### 添加 Gallery：
 
 https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/Task.json
 
-需要搭配下面两个重写订阅使用
 
-⚠️请确保你添加了资源解析器并开启
+#### 需要搭配下面两个重写订阅使用
 
-重写一：cookie 获取成功后禁用
+#### ⚠️请确保你添加了资源解析器并开启
+
+#### 重写一：cookie 获取成功后禁用
 
 https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Cookie.sgmodule
 
-重写二：用于辅助其他模块，无需禁用
+#### 重写二：用于辅助其他模块，无需禁用
 
 https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Support.sgmodule
 
 
-
-
-
-部分功能可能需要搭配知名大佬们的 BoxJs 订阅使用
+## 补充说明
+#### 部分功能可能需要搭配知名大佬们的 BoxJs 订阅使用
 
 https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json
 
@@ -35,5 +36,4 @@ https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json 
 https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json （CCCAT 机场签到）
 
 
-
-如果不会使用 BoxJs 请点击左上角/右上角 关闭此网页
+## 如果不会使用 BoxJs 请点击左上角/右上角 关闭此网页
