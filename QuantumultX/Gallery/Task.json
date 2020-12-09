@@ -42,6 +42,8 @@
         "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png, tag=京东快递签到",
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_digital_floor.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, tag=数码加购京豆",
         "0 0,9,11,13,15,17,19,20,21,23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, tag=直播红包雨",
+        "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_lotteryMachine.png, tag=苹果抽奖机",
+        "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pubg.js, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, tag=PUBG",
         "0 */3 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, tag=京东金融-天天提鹅",
         "12 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, tag=京东金融-养猪猪",
         "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png, tag=京东抽奖机",
