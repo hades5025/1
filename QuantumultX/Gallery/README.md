@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/Task.json
 
 重写一：cookie 获取成功后禁用
 
-https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Cookie.sgmodule#replace=ajaxDoTask76728@ajaxInit
+https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Cookie.sgmodule
 
 重写二：用于辅助其他模块，无需禁用
 
