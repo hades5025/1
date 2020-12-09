@@ -6,13 +6,13 @@
 
 - #### 需要搭配下面两个重写订阅使用
 
-  - ##### ⚠️请确保你添加了资源解析器并开启
+  - ⚠️请确保你添加了资源解析器并开启
 
-  - ##### 重写一：cookie 获取成功后禁用
+  - 重写一：cookie 获取成功后禁用
 
     `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Cookie.sgmodule`
 
-  - ##### 重写二：用于辅助其他模块，无需禁用
+  - 重写二：用于辅助其他模块，无需禁用
 
     `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Support.sgmodule`
 
@@ -101,3 +101,5 @@
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` （中青看点清除 body）
 
   `https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json` （CCCAT 机场签到）
+
+## 鸣谢（待完善）
