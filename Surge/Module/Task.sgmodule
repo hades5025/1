@@ -27,23 +27,23 @@ CCCAT = type=cron,cronexp=2 20 9 * * *,script-path=https://raw.githubusercontent
 
 东东萌宠 = type=cron,cronexp=15 6-18/6 * * *,wake-system=1,timeout=120,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pet.js
 
-京东种豆得豆 = type=cron,cronexp=1 7-21/2 * * *,wake-system=1,timeout=120,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js
+种豆得豆 = type=cron,cronexp=1 7-21/2 * * *,wake-system=1,timeout=120,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js
 
-京东天天加速 = type=cron,cronexp=8 */3 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_speed.js
+天天加速 = type=cron,cronexp=8 */3 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_speed.js
 
-京东摇钱树 = type=cron,cronexp=3 */2 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_moneyTree.js
+摇钱树 = type=cron,cronexp=3 */2 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_moneyTree.js
 
-京东宠汪汪 = type=cron,cronexp=15 */2 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy.js
+宠汪汪 = type=cron,cronexp=15 */2 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy.js
 
 宠汪汪偷好友积分与狗粮 = type=cron,cronexp=0 0,6 * * *,wake-system=1,timeout=320,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_steal.js
 
-京东宠汪汪喂食 = type=cron,cronexp=15 */1 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_feedPets.js
+宠汪汪喂食 = type=cron,cronexp=15 */1 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_feedPets.js
 
 宠汪汪积分兑换奖品 = type=cron,cronexp=0 0-16/8 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_reward.js
 
 宠汪汪邀请助力与赛跑助力 = type=cron,cronexp=15 10 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js
 
-取关京东店铺商品 = type=cron,cronexp=55 23 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js
+取关店铺商品 = type=cron,cronexp=55 23 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js
 
 东东超市 = type=cron,cronexp=11 1-23/5 * * *,wake-system=1,timeout=320,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_superMarket.js
 
@@ -89,7 +89,7 @@ CCCAT = type=cron,cronexp=2 20 9 * * *,script-path=https://raw.githubusercontent
 
 京东金融-养猪猪 = type=cron,cronexp=12 * * * *,wake-system=1,timeout=100,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js
 
-京东抽奖机 = type=cron,cronexp=11 1 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js
+抽奖机 = type=cron,cronexp=11 1 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js
 
 排行榜 = type=cron,cronexp=0 13 9 * * *,wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js
 
